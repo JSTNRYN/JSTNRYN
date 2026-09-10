@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, ik ben Justin 👋
 
-<!--
-**JSTNRYN/JSTNRYN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student aan Hogeschool Rotterdam
+🎂 19 jaar oud
+💻 Bezig met het leren en bouwen van dingen met code
+📍 Nederland
 
-Here are some ideas to get you started:
+## 🙋‍♂️ Over mij
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ik ben een student die graag nieuwe dingen leert op het gebied van softwareontwikkeling.
+Van backend logica tot webapplicaties, ik hou ervan om te experimenteren met verschillende
+talen en frameworks en mezelf steeds verder te ontwikkelen als developer.
+
+## 🛠️ Tech Stack
+
+**Talen**
+- Python
+- C#
+- PHP
+- JavaScript
+
+**Frameworks**
+- Laravel
+
+## 🌱 Waar ik nu mee bezig ben
+
+- Mijn kennis van C# verder uitbreiden
+- Mijn skills in Laravel en PHP verder uitbreiden
+- Meer ervaring opdoen met JavaScript in webprojecten
+- School-projecten combineren met eigen projecten om te blijven leren
+
+## 🎯 Doelen
+
+- Een sterke basis leggen in fullstack development
+- Meewerken aan grotere/complexere projecten
+- Na mijn studie aan de slag als developer
+
+## 📫 Contact
+
+Voor nu geen social links, maar voel je vrij om mijn repositories te bekijken!
+
+---
+⭐ Bedankt voor het bezoeken van mijn profiel!
